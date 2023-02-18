@@ -4,4 +4,6 @@ date: 2023-02-17 22:46:00 -0200
 categories: [opensource,software,technology]
 ---
 
+![Img Url](/assets/Croods.jpg)
+
 # Welcome
