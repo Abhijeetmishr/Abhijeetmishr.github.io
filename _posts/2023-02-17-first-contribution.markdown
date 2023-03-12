@@ -29,7 +29,7 @@ The project was a Eclipse/ditto that is a IoT middleware. I noticed that there w
 
 To my surprise, the project maintainers responded quickly and were very welcoming. They reviewed my code, provided feedback, and helped me make my contribution better. After a few rounds of review, my contribution was accepted and merged into the main codebase.
 
-![](/assets/images/contribution.png)
+![](/assets/images/contribution.jpg)
 
 # Conclusion
 It was a great feeling to see my code being used by others and to know that I had contributed to an OSS project. It was also a great learning experience. I learned how to work with Git, how to write good code, and how to work with a team of developers. I also learned that contributing to OSS is not as intimidating as it seems. It is a collaborative process, and everyone is welcome to contribute, regardless of their skill level.
