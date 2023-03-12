@@ -12,8 +12,7 @@ Probably it is good to start with the introduction and then how I paved my way t
      Adapt, Improvise and Overcome.
 
 # Introduction
-I graduated in 2021 and got my first job as software engineer, There I worked for around year and half. In 2023 Feb finally I decided to quit because I find the work monotonous after  certain period of time it is the same work I am doing again and again that makes me realize that I am not learning anything new it the same old thing I am doing.
-Then I started looking for answers and from there on I came across OSS.
+I graduated in 2021 and landed my first job as a software engineer. After working there for a year and a half, I realized that the work had become monotonous, which led me to question my career path. However, my curiosity led me to explore different avenues, and that's when I discovered Open Source Software (OSS).
 
 # Motivation
 Open source software (OSS) is software that is freely available to the public and can be modified and distributed by anyone. It is created by a community of developers who collaborate to build software that is open, transparent, and accessible to everyone. Contributing to OSS can be a rewarding experience, both personally and professionally. In this blog post, I would like to share my experience of making my first contribution to an OSS project.
